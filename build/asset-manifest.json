@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.604bf955.chunk.css",
+    "main.js": "/static/js/main.58ef5820.chunk.js",
+    "main.js.map": "/static/js/main.58ef5820.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b9bface.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b9bface.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.22a924e4.chunk.js": "/static/js/2.22a924e4.chunk.js",
+    "static/js/2.22a924e4.chunk.js.map": "/static/js/2.22a924e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.61f830205e24a305d3eca875650b2516.js": "/precache-manifest.61f830205e24a305d3eca875650b2516.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.604bf955.chunk.css.map": "/static/css/main.604bf955.chunk.css.map",
+    "static/js/2.22a924e4.chunk.js.LICENSE.txt": "/static/js/2.22a924e4.chunk.js.LICENSE.txt",
+    "static/media/takedoenlogo.png": "/static/media/takedoenlogo.d8cee790.png",
+    "static/media/style.css": "/static/media/takedown-login-bg.6529b486.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b9bface.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.22a924e4.chunk.js",
+    "static/css/main.604bf955.chunk.css",
+    "static/js/main.58ef5820.chunk.js"
+  ]
+}
